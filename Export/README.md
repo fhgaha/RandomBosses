@@ -1,0 +1,1 @@
+All season bosses are random

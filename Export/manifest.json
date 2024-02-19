@@ -1,0 +1,9 @@
+{
+  "name": "RandomBosses",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "All season bosses are random",
+  "dependencies": [
+    "BepInEx-BepInExPack_x86-5.4.2100"
+  ]
+}
